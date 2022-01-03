@@ -1,4 +1,4 @@
-# Module 1 - Create a Blockchain
+# Creating a Basic Blockchain without Transactions
 
 # To be installed:
 # Flask==0.12.2: pip install Flask==0.12.2
